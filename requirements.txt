@@ -1,0 +1,2 @@
+# Install additional packages as you progress through the roadmap.
+# For the first week, the Python standard library is enough.
